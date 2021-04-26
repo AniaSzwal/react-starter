@@ -14,15 +14,15 @@ class Column extends React.Component {
     }
 
     render() {
-        const{title, icon, cards}=this.props;
+      const{title, icon, cards}=this.props;
       return (
-           <section className={styles.component}>
+        <section className={styles.component}>
           <h3 className={styles.title}>{this.props.title}
             <span className={styles.icon}><Icon name={this.props.icon} /></span>
           </h3>
-               {cards.map(cardData => (
-                   <Card key={cardData.id} {...cardData} />
-               ))}
+          {cards.map(cardData => (
+            <Card key={cardData.id} {...cardData} />
+          ))}
           {/*<div className={styles.creator}>
             <Creator text={settings.cardCreatorText} action={title => this.addCard(title)}/>
           </div>*/}
