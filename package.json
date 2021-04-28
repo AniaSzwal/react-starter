@@ -8,13 +8,13 @@
     "build": "webpack --mode production",
     "lint": "eslint src/"
   },
-  "husky --fix": {
+  "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
     }
   },
   "lint-staged": {
-    "src/**/*.js --fix": "eslint"
+    "src/**/*.js": "eslint --fix"
   },
   "keywords": [],
   "author": "",
@@ -25,7 +25,8 @@
     "react-dom": "^16.7.0",
     "react-html-parser": "^2.0.2",
     "react-redux": "^7.0.1",
-    "redux": "^4.0.1"
+    "redux": "^4.0.1",
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",
