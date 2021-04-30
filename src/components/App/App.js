@@ -8,10 +8,10 @@ class App extends React.Component {
     static propTypes = {
       title: PropTypes.node,
       subtitle: PropTypes.node,
-      list: PropTypes.array,
+      lists: PropTypes.array,
     }
     render() {
-      const{title,subtitle, lists}=this.props;
+      const{title,subtitle,lists}=this.props;
       return (
         <main className={styles.component}>
           <h1 className={styles.title}>{title}</h1>
