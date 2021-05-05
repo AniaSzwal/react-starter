@@ -12,11 +12,29 @@ export const settings = {
   },
   defaultListDescription: '<p>I can do all the things!!!</p>',
   defaultColumnIcon: 'list-alt',
+
+  header: {
+    icon: 'dove',
+  },
 };
 
 export const pageContents = {
   title: 'My first React app',
   subtitle: 'A simple to-do app, with lists, columns and cards',
+};
+
+export const FAQContents = {
+  title: 'FAQ',
+  image: 'https://images.unsplash.com/photo-1495568995596-9e40959aa178?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1706&q=80',
+  description: 'Ask your question',
+
+};
+
+export const infoContents = {
+  'title': 'Info',
+  'image': 'https://images.unsplash.com/photo-1599530548461-89c6d97497b4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=660&q=80',
+  'description': `How can we help you?`,
+
 };
 
 export const listData = {
