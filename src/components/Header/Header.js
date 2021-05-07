@@ -11,7 +11,7 @@ class Header extends React.Component {
       <header className={styles.component}>
         <Container>
           <div className={styles.wrapper}>
-            <Link to='/' className={styles.logo}>
+            <Link className={styles.logo}>
               <Icon name={settings.header.icon} />
               <nav>
                 <NavLink exact to='/' activeClassName='active'>Home</NavLink>
