@@ -1,5 +1,6 @@
 import SearchResults from './SearchResults';
 import {getCardsForSearchResults} from '../../redux/cardsRedux.js';
+import {connect} from 'react-redux';
 
 const mapStateToProps = (state, props) => {
   const searchString = props.match.params.searchString;
@@ -8,4 +9,4 @@ const mapStateToProps = (state, props) => {
   };
 };
 
-export default (mapStateToProps)(SearchResults);
+export default connect (mapStateToProps)(SearchResults);
