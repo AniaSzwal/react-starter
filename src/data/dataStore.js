@@ -93,9 +93,22 @@ export const listData = {
 const lists = [
   {
     id: 'list-1',
+    title: 'Write your  <sup>story!</sup>',
+    description: 'Interesting stories I want to write!',
+    image: 'https://images.unsplash.com/photo-1518674660708-0e2c0473e68e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80',
+  },
+
+  {
+    id: 'list-2',
+    title: 'Relax and <sup>note!</sup>',
+    description: 'Interesting things I want to note!',
+    image: 'https://images.unsplash.com/photo-1554415707-6e8cfc93fe23?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80',
+  },
+  {
+    id: 'list-3',
     title: 'Things to do <sup>soon!</sup>',
     description: 'Interesting things I want to check out!',
-    image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
+    image: 'https://images.unsplash.com/photo-1614822282964-18d729930cb4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1343&q=80',
   },
 ];
 

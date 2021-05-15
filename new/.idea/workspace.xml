@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0341cd9-bb29-4f49-a495-e3eb03868135" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="Sass File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rFuefZhxRkprLs5Hbcemyp0tQ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/ListLink" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anias\WebstormProjects\react-starter\src\components\ListLink" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anias\WebstormProjects\react-starter\src\components\ListLink" />
+      <recent name="C:\Users\anias\WebstormProjects\react-starter\src\components\FAQ" />
+      <recent name="C:\Users\anias\WebstormProjects\react-starter\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.lint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0341cd9-bb29-4f49-a495-e3eb03868135" name="Default Changelist" comment="" />
+      <created>1618584260732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618584260732</updated>
+      <workItem from="1618584264167" duration="12020000" />
+      <workItem from="1618692280846" duration="11440000" />
+      <workItem from="1618861054503" duration="3388000" />
+      <workItem from="1618866750527" duration="1681000" />
+      <workItem from="1619027070706" duration="5394000" />
+      <workItem from="1619121178755" duration="3366000" />
+      <workItem from="1619373105067" duration="5486000" />
+      <workItem from="1619383795046" duration="4270000" />
+      <workItem from="1619436479380" duration="3306000" />
+      <workItem from="1619544386972" duration="9072000" />
+      <workItem from="1619718720702" duration="2569000" />
+      <workItem from="1619780770457" duration="21875000" />
+      <workItem from="1619889636137" duration="7501000" />
+      <workItem from="1620133815420" duration="11262000" />
+      <workItem from="1620225137134" duration="154000" />
+      <workItem from="1620234273415" duration="7477000" />
+      <workItem from="1620386511315" duration="1290000" />
+      <workItem from="1620560049478" duration="2513000" />
+      <workItem from="1620576881640" duration="7173000" />
+      <workItem from="1620644507155" duration="1972000" />
+      <workItem from="1620931793498" duration="8759000" />
+      <workItem from="1620947918095" duration="169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="59" key="#Inspections" timestamp="1620586426606">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="339" y="59" key="#Inspections/0.0.1422.760@0.0.1422.760" timestamp="1620586426606" />
+    <state x="305" y="39" key="#Intentions" timestamp="1619798398667">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="305" y="39" key="#Intentions/0.0.1422.760@0.0.1422.760" timestamp="1619798398667" />
+    <state x="473" y="183" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619880616205">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="473" y="183" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1422.760@0.0.1422.760" timestamp="1619880616205" />
+    <state width="1402" height="206" key="GridCell.Tab.0.bottom" timestamp="1620948089918">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="1402" height="206" key="GridCell.Tab.0.bottom/0.0.1422.760@0.0.1422.760" timestamp="1620948089918" />
+    <state width="1402" height="206" key="GridCell.Tab.0.center" timestamp="1620948089917">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="1402" height="206" key="GridCell.Tab.0.center/0.0.1422.760@0.0.1422.760" timestamp="1620948089917" />
+    <state width="1402" height="206" key="GridCell.Tab.0.left" timestamp="1620948089917">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="1402" height="206" key="GridCell.Tab.0.left/0.0.1422.760@0.0.1422.760" timestamp="1620948089917" />
+    <state width="1402" height="206" key="GridCell.Tab.0.right" timestamp="1620948089918">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="1402" height="206" key="GridCell.Tab.0.right/0.0.1422.760@0.0.1422.760" timestamp="1620948089918" />
+    <state x="370" y="171" key="run.anything.popup" timestamp="1620941218498">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="370" y="171" key="run.anything.popup/0.0.1422.760@0.0.1422.760" timestamp="1620941218498" />
+    <state x="19" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1620946478335">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="19" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1422.760@0.0.1422.760" timestamp="1620946478335" />
+  </component>
+</project>
