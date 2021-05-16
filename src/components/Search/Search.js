@@ -1,4 +1,3 @@
-
 import React from 'react';
 import styles from './Search.scss';
 import Button from '../Button/Button';
